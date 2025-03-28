@@ -11,7 +11,7 @@ export default function OurStorySection() {
         <div className="w-full md:w-2/5">
           <div className="relative h-[450px] md:h-[550px] w-full rounded-lg shadow-xl overflow-hidden">
             <Image
-              src="/founder.png"
+              src="public/founder.png"
               alt="Deepshikha Sharma - Founder"
               fill
               priority
