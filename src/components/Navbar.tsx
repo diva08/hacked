@@ -18,7 +18,7 @@ export default function Navbar() {
         <Link href="/" className="flex items-center">
           <div className="relative w-12 h-12 md:w-14 md:h-14 mr-4">
             <Image
-              src="hacked/public/logo.png"
+              src="https://diva08.github.io/hacked/public/logo.png"
               // src="/logo.png"
               alt="Hacked Logo"
               fill
